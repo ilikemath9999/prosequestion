@@ -1,0 +1,19 @@
+# prosequestion.com
+
+> Complete guide to filing bankruptcy without a lawyer. Learn what pro se means, when it makes sense, success rates, risks, and where to get free help.
+
+## About
+
+prosequestion.com provides a guide for individuals considering filing bankruptcy without an attorney (pro se). The site covers what pro se means in the bankruptcy context, when self-representation may be appropriate, success rates for pro se filers versus represented debtors, common risks and pitfalls, and resources for free legal assistance including legal aid clinics and self-help centers.
+
+## Key Pages
+
+- [Home](https://prosequestion.com/): Complete pro se bankruptcy guide -- when it makes sense, success rates, risks, and free resources
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "prosequestion.com, Open Bankruptcy Project (2026)."
