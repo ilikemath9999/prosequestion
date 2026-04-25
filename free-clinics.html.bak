@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta name="robots" content="noindex, nofollow">
-<meta http-equiv="refresh" content="0; url=https://prosequestion.com/legal-aid.html">
+<meta http-equiv="refresh" content="0; url=https://prosequestion.com/free-clinics.html">
 <script>window.location.replace('https://prosequestion.com' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <!-- BTN:GA4:START -->
 <link rel="preconnect" href="https://www.googletagmanager.com">
@@ -14,13 +14,13 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Free Legal Help for Bankruptcy: Legal Aid, Clinics, and Pro Bono</title>
-<meta name="description" content="Learn about free legal help for bankruptcy: legal aid, clinics, and pro bono | prosequestion.com in our free 2026 guide.">
-<link rel="canonical" href="https://prosequestion.com/legal-aid.html">
-<meta property="og:title" content="Free Legal Help for Bankruptcy: Legal Aid, Clinics, and Pro Bono">
-<meta property="og:description" content="Learn about free legal help for bankruptcy: legal aid, clinics, and pro bono | prosequestion.com in our free 2026 guide.">
+<title>Free Bankruptcy Clinics and Consultations</title>
+<meta name="description" content="How to find free bankruptcy clinics in your area. What to bring, what to expect, and how to prepare for a free bankruptcy consultation.">
+<link rel="canonical" href="https://prosequestion.com/free-clinics.html">
+<meta property="og:title" content="Free Bankruptcy Clinics and Consultations">
+<meta property="og:description" content="How to find free bankruptcy clinics in your area. What to bring, what to expect, and how to prepare for a free bankruptcy consultation.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://prosequestion.com/legal-aid.html">
+<meta property="og:url" content="https://prosequestion.com/free-clinics.html">
 <meta property="og:site_name" content="prosequestion.com">
 <style>
   :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149}
@@ -44,8 +44,8 @@
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"How do I find free legal help for bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Start with LawHelp.org to find your local legal aid office. Legal Services Corporation (LSC) funded organizations provide free bankruptcy representation to qualifying low-income individuals. You can also search for law school bankruptcy clinics in your area, contact your local bar association's lawyer referral service, or check if your bankruptcy court has a self-help desk or volunteer attorney program."}},
-{"@type":"Question","name":"What are the income limits for free bankruptcy legal aid?","acceptedAnswer":{"@type":"Answer","text":"Most legal aid organizations set income limits at 125% to 200% of the federal poverty guidelines. For 2026, this means a single person earning roughly $18,000 to $30,000 per year may qualify, depending on the organization. Some programs have higher limits or consider additional factors like assets, family size, and the nature of the legal problem."}}
+{"@type":"Question","name":"How do I find a free bankruptcy clinic near me?","acceptedAnswer":{"@type":"Answer","text":"Search LawHelp.org for legal aid organizations in your area, contact your local bar association for pro bono programs, check your bankruptcy court's website for self-help clinics, search for law school bankruptcy clinics at universities in your state, and call 211 (the national helpline) for community legal resources."}},
+{"@type":"Question","name":"What should I bring to a free bankruptcy consultation?","acceptedAnswer":{"@type":"Answer","text":"Bring a list of all your debts with approximate amounts and creditor names, a list of your monthly income from all sources, a list of your monthly expenses, information about your assets (home, vehicles, bank accounts, retirement accounts), recent pay stubs, your most recent tax return, and any collection letters, lawsuits, or garnishment orders you have received."}}
 ]}
 </script>
 <script type="application/ld+json">
@@ -57,8 +57,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Free Legal Help for Bankruptcy",
-      "description": "Find free legal help for bankruptcy filing. Legal aid organizations, law school clinics, pro bono attorneys, Upsolve, and other free resources for people who ca",
+      "headline": "Free Bankruptcy Clinics and Consultations",
+      "description": "How to find free bankruptcy clinics in your area. What to bring, what to expect, and how to prepare for a free bankruptcy consultation.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -70,7 +70,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://prosequestion.com/legal-aid.html"
+      "mainEntityOfPage": "https://prosequestion.com/free-clinics.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -90,15 +90,71 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Free Legal Help for Bankruptcy",
-          "item": "https://prosequestion.com/legal-aid.html"
+          "name": "Free Bankruptcy Clinics and Consultations",
+          "item": "https://prosequestion.com/free-clinics.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Free Bankruptcy Clinics and Consultations",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": ":root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149}\n  *{margin:0;padding:0;box-sizing:border-box}body{font-family:"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Help understanding which chapter to file"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Review of partially completed forms"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Explanation of court procedures and deadlines"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Referrals to legal aid for full representation if you qualify"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "LawHelp.org - Search by state for legal aid organizations that offer bankruptcy assistance"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Your bankruptcy court's website - Look for \"pro se,\" \"self-help,\" or \"clinic\" pages"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Your local bar association - Call and ask about pro bono bankruptcy programs"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Law school websites - Search for bankruptcy clinics at universities in your state"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Call 211 - The national helpline that connects you to local community resources"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Free Legal Help for Bankruptcy",
-      "url": "https://prosequestion.com/legal-aid.html",
+      "name": "Free Bankruptcy Clinics and Consultations",
+      "url": "https://prosequestion.com/free-clinics.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -113,31 +169,10 @@
 }
 </script>
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Free Legal Help for Bankruptcy: Legal Aid, Clinics, and Pro Bono">
-<meta name="twitter:description" content="Learn about free legal help for bankruptcy: legal aid, clinics, and pro bono | prosequestion.com in our free 2026 guide.">
+<meta name="twitter:title" content="Free Bankruptcy Clinics and Consultations">
+<meta name="twitter:description" content="How to find free bankruptcy clinics in your area. What to bring, what to expect, and how to prepare for a free bankruptcy consultation.">
 <meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
 <meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -152,98 +187,108 @@
       <a href="/free-help.html">Free Help</a>
       <a href="/faq.html">FAQ</a>
       <a href="/court-resources.html">Court Resources</a>
-      <a href="/legal-aid.html" class="active">Legal Aid</a>
-      <a href="/free-clinics.html">Free Clinics</a>
+      <a href="/legal-aid.html">Legal Aid</a>
+      <a href="/free-clinics.html" class="active">Free Clinics</a>
     </div>
   </div>
 </nav>
 
 <main id="main">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://prosequestion.com">Pro Se Bankruptcy Questions</a><span class="separator">&rsaquo;</span><span>Free Legal Help for Bankruptcy</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://prosequestion.com">Pro Se Bankruptcy Questions</a><span class="separator">&rsaquo;</span><span>Free Bankruptcy Clinics and Consultations</span></nav>
 
-  <h1>Free Legal Help for Bankruptcy</h1>
-  <p class="subtitle">Legal aid organizations, law school clinics, pro bono programs, and online tools</p>
+  <h1>Free Bankruptcy Clinics and Consultations</h1>
+  <p class="subtitle">How to find free bankruptcy help, what to bring, and what to expect</p>
 
-  <p>If you cannot afford a bankruptcy attorney, you are not limited to filing entirely on your own. Several types of organizations provide free or low-cost bankruptcy assistance. Knowing where to look can make the difference between a successful case and a dismissed one.</p>
+  <p>A free bankruptcy clinic is a scheduled event - often weekly or monthly - where volunteer attorneys or law students meet with people who need bankruptcy help but cannot afford a lawyer. These clinics exist across the country, though availability varies by location.</p>
 
-  <h2>Legal Aid Organizations</h2>
+  <h2>Types of Free Clinics</h2>
 
   <div class="card">
-    <h3>Legal Services Corporation (LSC) Programs</h3>
-    <p>The Legal Services Corporation is a federally funded organization that supports legal aid offices across the country. LSC-funded programs provide free civil legal assistance, including bankruptcy representation, to qualifying low-income individuals.</p>
+    <h3>Court-Based Pro Se Clinics</h3>
+    <p>Some bankruptcy courts host regular clinics specifically for <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> filers. These are typically run in partnership with local legal aid organizations or bar associations. Services may include:</p>
     <ul>
-      <li><strong>Find your local office:</strong> <a href="https://www.lawhelp.org" rel="noopener">LawHelp.org</a> - the national directory of legal aid programs</li>
-      <li><strong>Income limits:</strong> Typically 125% to 200% of federal poverty guidelines (roughly $18,000-$30,000 annually for a single person in 2026)</li>
-      <li><strong>What they provide:</strong> Full representation in many cases - an attorney handles your entire bankruptcy case from filing through <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></li>
-      <li><strong>Limitations:</strong> High demand and limited capacity mean waitlists are common. Some offices only take simple <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> cases.</li>
+      <li>One-on-one consultation with a volunteer attorney (15-30 minutes)</li>
+      <li>Help understanding which chapter to file</li>
+      <li>Review of partially completed forms</li>
+      <li>Explanation of court procedures and deadlines</li>
+      <li>Referrals to legal aid for full representation if you qualify</li>
     </ul>
   </div>
 
   <div class="card">
-    <h3>Local Bar Association Referrals</h3>
-    <p>Your state or local bar association typically operates a lawyer referral service. While not free, many offer:</p>
-    <ul>
-      <li>Reduced-fee initial consultations ($25-50 for a 30-minute consultation)</li>
-      <li>Pro bono referrals for qualifying individuals</li>
-      <li>Panels of attorneys who accept reduced-fee cases</li>
-    </ul>
-    <p>Search for "[your city] bar association lawyer referral" to find your local service.</p>
+    <h3>Law School Bankruptcy Clinics</h3>
+    <p>Law schools with bankruptcy clinics provide <span class="highlight">full representation</span> - not just advice. A supervised law student handles your entire case from start to finish. These clinics are selective (limited spots, income requirements), but the quality of representation is often excellent because students are closely supervised and invest significant time in each case.</p>
   </div>
-
-  <h2>Law School Bankruptcy Clinics</h2>
 
   <div class="card">
-    <h3>How Clinics Work</h3>
-    <p>Many law schools operate bankruptcy clinics where supervised law students handle cases at no cost to the client. These are not form-filling services - they provide <span class="highlight">full legal representation</span> under the supervision of a licensed attorney.</p>
-    <ul>
-      <li><strong>Quality:</strong> Cases receive extensive attention because they are teaching tools - students are closely supervised and motivated</li>
-      <li><strong>Cost:</strong> Free</li>
-      <li><strong>Eligibility:</strong> Usually income-based, similar to legal aid limits</li>
-      <li><strong>Capacity:</strong> Limited. Clinics can only take a certain number of cases per semester</li>
-      <li><strong>Finding one:</strong> Search for "[your state] law school bankruptcy clinic" or check with your local bankruptcy court</li>
-    </ul>
+    <h3>Legal Aid Walk-In Clinics</h3>
+    <p>Many legal aid offices hold walk-in or appointment-based clinics on specific days. You meet with a staff attorney or volunteer who assesses your situation and either takes your case or provides limited advice and referrals.</p>
   </div>
-
-  <h2>Pro Bono Programs</h2>
 
   <div class="card">
-    <h3>Volunteer Attorney Programs</h3>
-    <p>Many bankruptcy courts and bar associations organize pro bono programs where private attorneys volunteer to represent low-income filers for free. These programs vary widely by district:</p>
-    <ul>
-      <li>Some provide full representation</li>
-      <li>Some offer limited-scope help (petition review, <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a> appearance)</li>
-      <li>Some operate as "brief advice clinics" where you get a one-time consultation</li>
-    </ul>
-    <p>Ask your local bankruptcy court clerk's office if any pro bono programs are available in your district.</p>
+    <h3>Bar Association Pro Bono Clinics</h3>
+    <p>Local bar associations organize pro bono events where private attorneys volunteer their time. These may be one-time events or recurring clinics.</p>
   </div>
 
-  <h2>Online Tools</h2>
+  <h2>How to Find a Clinic Near You</h2>
+
+  <ol>
+    <li><strong>LawHelp.org</strong> - <a href="https://www.lawhelp.org" rel="noopener">Search by state</a> for legal aid organizations that offer bankruptcy assistance</li>
+    <li><strong>Your bankruptcy court's website</strong> - Look for "<a href="https://prosebankruptcy.org/" title="pro se">pro se</a>," "self-help," or "clinic" pages</li>
+    <li><strong>Your local bar association</strong> - Call and ask about pro bono bankruptcy programs</li>
+    <li><strong>Law school websites</strong> - Search for bankruptcy clinics at universities in your state</li>
+    <li><strong>Call 211</strong> - The national helpline that connects you to local community resources</li>
+    <li><strong>Ask the court clerk</strong> - Call your bankruptcy court's clerk office and ask what free resources are available for pro se filers</li>
+  </ol>
+
+  <h2>What to Bring to a Free Consultation</h2>
+
+  <p>Come prepared. The attorney's time is limited, and you will get much better advice if you have your information organized.</p>
 
   <div class="card">
-    <h3>Upsolve</h3>
-    <p><a href="https://upsolve.org" rel="noopener">Upsolve</a> is a nonprofit that provides a free online tool to help low-income filers prepare <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> bankruptcy petitions. It walks you through the forms step by step and generates a completed petition packet you can file with the court. Upsolve has helped thousands of people file Chapter 7 <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>.</p>
+    <h3>Bring These Documents</h3>
     <ul>
-      <li><strong>Cost:</strong> Free</li>
-      <li><strong>Chapter 7 only:</strong> Upsolve does not support <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> filings</li>
-      <li><strong>Limitations:</strong> Works best for simple cases. If your case involves a business, real estate, or complex asset issues, you need an attorney</li>
+      <li><strong>List of all debts</strong> - creditor names, approximate balances, whether each debt is secured or unsecured</li>
+      <li><strong>Monthly income</strong> - from all sources (employment, benefits, rental income, side work)</li>
+      <li><strong>Monthly expenses</strong> - rent/mortgage, utilities, food, transportation, insurance, medical</li>
+      <li><strong>Asset list</strong> - home value and mortgage balance, vehicle values and loan balances, bank account balances, retirement account balances</li>
+      <li><strong>Recent pay stubs</strong> - last 2-3 months</li>
+      <li><strong>Most recent tax return</strong></li>
+      <li><strong>Collection letters, lawsuits, or <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> orders</strong> - anything showing active creditor action</li>
+      <li><strong>Prior bankruptcy records</strong> - if you filed before, bring the case number and filing date</li>
     </ul>
   </div>
 
-  <h2>How to Choose the Right Resource</h2>
+  <h2>What to Expect</h2>
+
+  <p>Free consultations are typically brief - 15 to 30 minutes. Here is what usually happens:</p>
+
+  <ol>
+    <li>The attorney reviews your financial situation (debts, income, assets)</li>
+    <li>They advise whether bankruptcy makes sense for your situation</li>
+    <li>If bankruptcy is appropriate, they recommend <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></li>
+    <li>They explain the basic process and timeline</li>
+    <li>They either take your case (if they have capacity) or refer you to other resources</li>
+  </ol>
+
+  <p>Do not expect the attorney to file your case during the consultation. The initial meeting is for assessment and advice. If they agree to represent you, the actual filing process begins separately.</p>
+
+  <h2>What If No Free Clinic Is Available?</h2>
+
+  <p>If you cannot find a free clinic in your area:</p>
 
   <ul>
-    <li><strong>Simple Chapter 7, very low income:</strong> Legal aid office or Upsolve</li>
-    <li><strong>Chapter 7 with some complexity:</strong> Law school clinic or legal aid</li>
-    <li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Legal aid office with full representation capacity - do not file Chapter 13 <a href="https://prosebankruptcy.org/" title="pro se">pro se</a></li>
-    <li><strong>Need quick advice:</strong> Bar association referral or brief advice clinic</li>
-    <li><strong>Already filed and having problems:</strong> Legal aid or pro bono program in your district</li>
+    <li><strong>Upsolve:</strong> A free online tool for simple <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> cases (<a href="https://upsolve.org" rel="noopener">upsolve.org</a>)</li>
+    <li><strong>Limited-scope representation:</strong> Some attorneys will review your completed forms for $200-500</li>
+    <li><strong>Bankruptcy petition preparers:</strong> Non-attorneys who help fill out forms (cannot give legal advice, fees capped around $150)</li>
+    <li><strong>Court self-help desk:</strong> Many courts offer procedural guidance even without formal clinics</li>
   </ul>
 
   <div class="internal-links">
     <h3>Related Resources</h3>
     <ul>
-      <li><a href="/free-clinics.html">Bankruptcy clinics and free consultations</a></li>
-      <li><a href="/court-resources.html">Court self-help desks and guides</a></li>
+      <li><a href="/legal-aid.html">Legal aid organizations for bankruptcy</a></li>
+      <li><a href="/court-resources.html">Court self-help desks and forms</a></li>
       <li><a href="/faq.html">Pro se bankruptcy FAQ</a></li>
       <li><a href="https://prosedebtors.org/" rel="noopener">prosedebtors.org - Pro se debtor guide</a></li>
       <li><a href="https://howtofilebankruptcy.org/" rel="noopener">howtofilebankruptcy.org - Step-by-step filing guide</a></li>
@@ -252,7 +297,7 @@
   </div>
 
   <div class="disclaimer">
-    <strong>Not legal advice.</strong> This site provides general information about finding free legal help for bankruptcy. It is not a substitute for advice from a licensed attorney. Consult with a qualified bankruptcy attorney in your jurisdiction.
+    <strong>Not legal advice.</strong> This site provides general information about finding free bankruptcy help. Consult with a qualified bankruptcy attorney in your jurisdiction.
   </div>
 
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -335,7 +380,7 @@
   </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -355,8 +400,8 @@
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=prosequestion&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=prosequestion&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://meanstest.org/?utm_source=prosequestion&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Free Means Test Calculator</a> <span style="color:#7d8590;font-size:0.8rem">-- meanstest.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=prosequestion&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://meanstest.org/?utm_source=prosequestion&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Free Means Test Calculator</a> <span style="color:#7d8590;font-size:0.8rem">-- meanstest.org</span></li>
   </ul>
 </div>
 </body>
